@@ -1,0 +1,6 @@
+﻿body {
+    font-family: oswald, helvetica, arial, sans-serif;
+    background: url(..//im/a1.jpeg), #000;
+    background-size: cover;
+    background-attachment: fixed;
+}
